@@ -30,3 +30,20 @@
 .categorise img{
     width: 100px;
 }
+.card{
+    border: none;
+    box-shadow: 5px 5px 15px lightgrey;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+#Contact-us{
+    height: 300px;
+}
+footer{
+    text-align: center;
+}
+.Contact-us h5{
+    color: #808080;
+}
